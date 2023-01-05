@@ -9,11 +9,12 @@ driver = webdriver.Chrome()
 driver.get("https://www.instagram.com")
 sleep(3)
 driver.find_element_by_name('username').send_keys('user_find') #replace with your insta username 
+sleep(1)
 driver.find_element_by_name('password').send_keys('seen987') #replace with your insta pass
 sleep(1)
 driver.find_element_by_xpath("//button[@type='submit']").click()
 sleep(10)
-driver.get('https://www.instagram.com/manoj_34_manoj')
+driver.get('https://www.instagram.com/manoj_34_manoj') #replace the username in last after .com
 sleep(5)
 driver.find_element_by_class_name("_abl-").click()#id click
 sleep(3)
