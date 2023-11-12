@@ -7,6 +7,14 @@ Download the latest version of Chrome Driver from https://chromedriver.chromium.
 
 Open the command prompt in that folder and enter your username and password. To run the file, either double-click on s.py or rename the file and run it.
 
+# when instagram updated the some code changes if these not run means use below repos..
+
+https://github.com/mr-574rk/xSpamBot
+
+https://github.com/Awtxl/007spam-BOT
+
+https://github.com/progdad/AutomatedInstaReports
+
 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
