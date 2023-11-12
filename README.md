@@ -1,9 +1,11 @@
 # Instagram-auto-account-report
 Instagram auto account report boy using selenium with python
 
-replace 11 & 13th line with username & pass and in 17 line which person you want to report put her username there
+# replace 17 & 19th line with username & pass and in 23 line which person you want to report put her username there..
 
-Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Then, place it in the appropriate folder. Open the command prompt in that folder and enter your username and password. To run the file, either double-click on s.py or rename the file and run it.
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Then, place it in the appropriate folder. 
+
+Open the command prompt in that folder and enter your username and password. To run the file, either double-click on s.py or rename the file and run it.
 
 👉Note:-
 
